@@ -2,7 +2,7 @@
 
 ## Summary
 
-The exam is released at 9 am on Friday, December 4 via GitHub. It is due by midnight on the following day, 7th of December 2020\. 
+The exam is released at 9 am on Friday, December 4 via GitHub. It is due by midnight on Monday, December 7, 2020\. 
 
 Please type your answers directly in the `final.md` Markdown file. Continuous Integration is not used in this repository. You should commit and push your work frequently. The last commit before the due time of midnight on December 7 will be graded.
 
