@@ -135,7 +135,7 @@ TODO: Put "X" inside brackets [ ] of the correct answer.
 TODO: Put "X" inside brackets [ ] of the correct answer.
 
 - [ ] No prediction can be made without knowing the hardware and software used for testing.
-- [ ] As the size of the input data increases, `Alg2` is more and more likely to run faster than Alg1.
+- [ ] As the size of the input data increases, `Alg2` is more and more likely to run faster than `Alg1`.
 - [ ] As the size of the input data increases, `Alg1` is more and more likely to run faster than `Alg2`.
 - [ ] `Alg1` and `Alg2` have the same running times.
 
