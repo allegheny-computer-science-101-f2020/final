@@ -32,7 +32,7 @@ TODO
 
 - (c) How does the `WordCount` program use a `TreeMap`?
 
-TODO
+  TODO
 
 **4\. [12 points]** Give three examples of a reference data type (i.e., an Object), explaining the purpose of each and showing how to construct it by calling one of its constructors.
 
@@ -59,7 +59,7 @@ public static int factorial(int n) {
 
   TODO
 
-**6\. [12 points]** It is possible to implement an `ArrayList` that contains `n` elements and is realized by a fixed-size array. Using the big-Oh notation, furnish the worst-case time complexity for the following `ArrayList` methods. Provide justification for the chosen worst-case time complexity.
+**6\. [12 points]** It is possible to implement an `ArrayList` that contains `n` elements and is realized by a fixed-size array. Using the big-Oh notation, furnish the worst-case time complexity for the following `ArrayList` methods and provide justification.
 
 - (a) `size()`
 
