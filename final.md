@@ -10,25 +10,25 @@ TODO
 
 - (a) `Array` compared to `ArrayList`
 
-TODO
+  TODO
 
 - (b) `ArrayList` compared to `SinglyLinkedList`
 
-TODO
+  TODO
 
 - (c) `SinglyLinkedList` compared to `DoublyLinkedList`
 
-TODO
+  TODO
 
-**3\. [6 points]** You could use a `java.util.TreeMap` to effectively perform a "word counting" operation as we did in practical 8\. Answer the following questions about the implementation of a WordCount program.
+**3\. [6 points]** You could use a `java.util.TreeMap` to effectively perform a "word counting" operation as we did in practical 8\. Answer the following questions about the implementation of a `WordCount` program.
 
 - (a) What is the input of the `WordCount` program?
 
-TODO
+  TODO
 
 - (b) What is the output of the `WordCount` program?
 
-TODO
+  TODO
 
 - (c) How does the `WordCount` program use a `TreeMap`?
 
@@ -51,15 +51,15 @@ public static int factorial(int n) {
 }
 ```
 
-- (a) Perform a "recursion trace" to explain the Java method calls that would take place if a main method called this method with the input of `4`. That is, show each step of the recursive call until it reaches the base case, including the input of each call.
+- (a) Perform a "recursion trace" to explain the Java method calls that would take place if a main method called this method with the input of `4`. That is, show each step of the method execution, including each recursive call with input argument until it reaches the base case.
 
-TODO
+  TODO
 
 - (b) What is the worst case time complexity of the `factorial` method?
 
-TODO
+  TODO
 
-- **6\. [12 points]** It is possible to implement an `ArrayList` that contains `n` elements and is realized by a fixed-size array. Using the big-Oh notation, furnish the worst-case time complexity for the following `ArrayList` methods. Provide justification for the chosen worst-case time complexity.
+**6\. [12 points]** It is possible to implement an `ArrayList` that contains `n` elements and is realized by a fixed-size array. Using the big-Oh notation, furnish the worst-case time complexity for the following `ArrayList` methods. Provide justification for the chosen worst-case time complexity.
 
 - (a) size()
 
@@ -113,15 +113,15 @@ public class Mystery {
 
 - (a) What does a `doMystery` method do in general terms, that is, what is its function?
 
-TODO
+  TODO
 
 - (b) What is the output of `Mystery` program?
 
-TODO
+  TODO
 
 - (c) Does the `Mystery` program function the same way if we change the base case to `if (array.length - num1 == 0)`. Explain your answer.
 
-TODO
+  TODO
 
 **8\. [5 points]** ( **True or False.**) The order of growth tells us by which factor to expect the running time to increase.
 
