@@ -61,22 +61,22 @@ public static int factorial(int n) {
 
 **6\. [12 points]** It is possible to implement an `ArrayList` that contains `n` elements and is realized by a fixed-size array. Using the big-Oh notation, furnish the worst-case time complexity for the following `ArrayList` methods. Provide justification for the chosen worst-case time complexity.
 
-- (a) size()
+- (a) `size()`
 
   - Worst-Case Time Complexity: TODO
   - Justification: TODO
 
-- (b) get(i)
+- (b) `get(i)`
 
   - Worst-Case Time Complexity: TODO
   - Justification: TODO
 
-- (c) add(i,e)
+- (c) `add(i,e)`
 
   - Worst-Case Time Complexity: TODO
   - Justification: TODO
 
-- (d) remove(i)
+- (d) `remove(i)`
 
   - Worst-Case Time Complexity: TODO
   - Justification: TODO
